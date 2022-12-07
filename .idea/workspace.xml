@@ -1,30 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="040615ec-bc97-49c1-b399-29604e2dacec" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proekt2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/company/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/departments/MeatProducts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/departments/MilkProducts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/departments/WheatProducts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/products/Bread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/products/Fish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/products/Flour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/products/Kefir.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/products/Meat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/products/Milk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/products/Pasta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/products/Products.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/products/Sausage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/products/Yogurt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/service/Service.java" afterDir="false" />
+    <list default="true" id="040615ec-bc97-49c1-b399-29604e2dacec" name="Changes" comment="ш">
+      <change afterPath="$PROJECT_DIR$/src/service/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/MyException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +54,14 @@
       <option name="presentableId" value="Default" />
       <updated>1670170975563</updated>
     </task>
+    <task id="LOCAL-00001" summary="ш">
+      <created>1670276500351</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670276500351</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -85,5 +74,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ш" />
+    <option name="LAST_COMMIT_MESSAGE" value="ш" />
   </component>
 </project>

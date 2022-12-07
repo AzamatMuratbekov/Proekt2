@@ -2,14 +2,16 @@ import departments.MeatProducts;
 import departments.MilkProducts;
 import departments.WheatProducts;
 import products.*;
+import service.Manager;
+import service.MyException;
 import service.Service;
 import java.time.LocalDate;
 import java.util.ArrayList;
-
 import static company.Company.*;
 
 public class Main {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws MyException {
+        Manager.manager();
         Meat meat = new Meat(255, LocalDate.of(2022, 12, 14), OTHER);
         Fish fish = new Fish(216, LocalDate.of(2022, 10, 11), OTHER);
         Sausage sausage = new Sausage(144, LocalDate.of(2023, 12, 30), TOIBOSS);
